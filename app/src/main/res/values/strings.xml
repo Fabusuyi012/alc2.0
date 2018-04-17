@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="prompt1">Player1</string>
+    <string name="prompt2">Player2</string>
+
+    <string-array name="letters">
+        <item>X</item>
+        <item>O</item>
+    </string-array>
+</resources>
